@@ -1,1 +1,1 @@
-# School_Quants_Hackathon
+# Quants-Hackathon
